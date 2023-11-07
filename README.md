@@ -1,4 +1,4 @@
-![image](https://github.com/rizwanrayyan/slot/assets/121215820/0f8950e1-d891-427f-9942-e8f2c06c56bc)# Ex03 Time Table
+# Ex03 Time Table
 
 ## AIM
 To write a html webpage page to display your slot timetable.
