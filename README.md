@@ -60,7 +60,7 @@ Execute the program using runserver command.
 </head>
 <body>
     
-    <img src="logo.png">
+     <img src="logo.png">
     <div class="center-text">
         <h1>SLOT TIME TABLE - Rizwan (212222040134)</h1>
     </div>
