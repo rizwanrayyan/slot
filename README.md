@@ -23,11 +23,14 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## CODE
+----
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>SLOT TIME TABLE</title>
     <style>
+        
         table {
             border-collapse: collapse;
             width: 80%;
@@ -56,6 +59,7 @@ Execute the program using runserver command.
     </style>
 </head>
 <body>
+    
     <img src="logo.png">
     <div class="center-text">
         <h1>SLOT TIME TABLE - Rizwan (212222040134)</h1>
@@ -144,8 +148,11 @@ Execute the program using runserver command.
 </body>
 </html>
 
+-----
+
 
 ## OUTPUT
+
 ![image](https://github.com/rizwanrayyan/slot/assets/121215820/29c63ec0-4986-4ad5-a262-7e65824e0fef)
 
 ## RESULT
